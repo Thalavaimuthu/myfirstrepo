@@ -1,2 +1,0 @@
-# myfirstrepo
-for testing purpouse
